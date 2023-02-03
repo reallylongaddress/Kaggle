@@ -1,3 +1,8 @@
+spaceship-titanic/kaggle/
+
+playground-series-s3e*/kaggle
+playground-series-s3e*/data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
